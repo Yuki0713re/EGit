@@ -30,5 +30,4 @@ public class Prefectures {
 	public int getIndex() {
 		return index;
 	}
-    
 }
